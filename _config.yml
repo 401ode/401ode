@@ -1,0 +1,15 @@
+# Site settings
+title: Office of Digital Excellence, State of Rhode Island
+# email: brian.mcguirk@ode.ri.gov
+description: > # this means to ignore newlines until "baseurl:"
+  The Office of Digital Excellence seeks to employ modern technologies to make government more efficient, accessible, and transparent for Rhode Islanders. 
+  The contents of this site are copyright State of Rhode Island, licensed under the terms of the MIT License.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://401ode.github.io" # the base hostname & protocol for your site
+twitter_username: RI_ODE
+github_username:  401ode
+timezone: America/New_York
+
+# Build settings
+markdown: kramdown
+
