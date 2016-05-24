@@ -1,6 +1,6 @@
-# In Porgress GitHub Org page for The Rhode Island Office of Digital Excellence
+# Homepage of Rhode Island's Office of Digital Excellence
 
-This site is in progress!  
+In Porgress GitHub Org page for The Rhode Island Office of Digital Excellence
 
 See the site in action at https://401ode.github.io/
 
