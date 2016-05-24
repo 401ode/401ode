@@ -1,15 +1,29 @@
 # Site settings
-title: Office of Digital Excellence, State of Rhode Island
-# email: brian.mcguirk@ode.ri.gov
+title:
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  The Office of Digital Excellence seeks to employ modern technologies to make government more efficient, accessible, and transparent for Rhode Islanders. 
-  The contents of this site are copyright State of Rhode Island, licensed under the terms of the MIT License.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://401ode.github.io" # the base hostname & protocol for your site
+  The Office of Digital Excellence seeks to employ modern technologies to make government more efficient, accessible, and transparent for Rhode Islanders.
+baseurl: "401ode.github.io" # the subpath of your site, e.g. /blog/
+url: "401ode.github.io" # the base hostname & protocol for your site
+
+# User setting
+owner: Ryan Kelly
+email: ryan.kelly@doit.ri.gov
+facebook_username: 
 twitter_username: RI_ODE
-github_username:  401ode
-timezone: America/New_York
+github_username: 401ode
+address:
+  - line: Rhode Island Department of Administration
+  - line: 1 Capitol Hill 
+  - line: Building 3
+  - line: Providence, RI
+  - line: 02908
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key: 
 
 # Build settings
 markdown: kramdown
-
