@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/401ode/401ode.github.io.png?label=ready&title=Ready)](https://waffle.io/401ode/401ode.github.io)
 # Homepage of Rhode Island's Office of Digital Excellence
 
 In Porgress GitHub Org page for The Rhode Island Office of Digital Excellence
